@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SecretSanta</string>
+    <string name="name">Name</string>
+    <string name="labelName">Имя человека</string>
+    <string name="labelEmail">Email адрес</string>
+    <string name="add">Добавить</string>
+    <string name="backButtonText">Назад</string>
+    <string name="numberOfPeopleText">Количество участников</string>
+    <string name="passwordText">Пароль:</string>
+    <string name="loginText">   Логин:</string>
+    <string name="welcomeText">"Добро пожаловать в приложение\n Тайный Санта!\n"
+    </string>
+    <string name="nextPageButtonText">Далее</string>
+    <string name="loginHint">введите логин</string>
+    <string name="passwordHint">введите пароль</string>
+</resources>
